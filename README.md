@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Pranjal Garg
 
 🎓 **B.Tech in Computer Science (Big Data Analytics)**  
-🚀 Passionate about **Machine Learning**, **Web Development**, and solving real-world problems  
+🚀 Passionate about **Machine Learning**, **Web Development**, **App Development** and solving real-world problems  
 💡 Always eager to learn, build, and collaborate on exciting projects  
 🎯 Goal: Craft meaningful tech solutions and grow as a lifelong learner  
 
